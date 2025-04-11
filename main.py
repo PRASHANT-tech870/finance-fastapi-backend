@@ -12,7 +12,7 @@ app = FastAPI()
 
 origins = [
     'http://localhost:5173',
-    'https://papaya-sawine-038903.netlify.app/',
+    'https://papaya-sawine-038903.netlify.app',
     
 
 ]
